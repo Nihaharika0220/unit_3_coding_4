@@ -1,0 +1,20 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+  }
+  #search_input{
+    width: 70%;
+    border-radius: 17px;
+    height: 30px;
+    margin: auto;
+    background-color: beige;
+  }
+  button{
+  
+    margin-top: 20px;
+  }
+  h3{
+    cursor: pointer;
+  }
+  
